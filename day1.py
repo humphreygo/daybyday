@@ -7,7 +7,7 @@ Created on Wed Jan 24 19:55:39 2018
 """
 
 #day 1
-
+#day1 modify to check git
 import os
 import logging
 logging.basicConfig(level = logging.info)
